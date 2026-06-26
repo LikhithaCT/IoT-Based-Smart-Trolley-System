@@ -1,4 +1,4 @@
-# 🛒 IoT Based Smart Trolley System
+# 🛒 IoT-Based Smart Trolley System Using NodeMCU ESP8266 and RFID for Automated Billing
 
 ##  Overview
 
