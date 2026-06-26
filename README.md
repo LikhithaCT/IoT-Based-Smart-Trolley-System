@@ -1,12 +1,12 @@
 # 🛒 IoT Based Smart Trolley System
 
-## 📖 Overview
+##  Overview
 
 The IoT Based Smart Trolley System is designed to automate the shopping and billing process using RFID technology and the NodeMCU ESP8266. The system detects products automatically, displays product details on an LCD screen, and updates the total bill in real time, reducing billing time and improving the shopping experience.
 
 ---
 
-## ✨ Features
+##  Features
 
 - RFID-based product detection
 - Automatic billing system
@@ -17,7 +17,7 @@ The IoT Based Smart Trolley System is designed to automate the shopping and bill
 
 ---
 
-## 🛠 Hardware Used
+##  Hardware Used
 
 - NodeMCU ESP8266
 - RFID RC522 Reader
@@ -29,7 +29,7 @@ The IoT Based Smart Trolley System is designed to automate the shopping and bill
 
 ---
 
-## 💻 Software Used
+##  Software Used
 
 - Arduino IDE
 - Embedded C
@@ -39,7 +39,7 @@ The IoT Based Smart Trolley System is designed to automate the shopping and bill
 
 ---
 
-## ⚙️ Working
+##  Working
 
 1. Scan the RFID tag attached to the product.
 2. NodeMCU identifies the product.
@@ -49,7 +49,7 @@ The IoT Based Smart Trolley System is designed to automate the shopping and bill
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 IoT-Based-Smart-Trolley-System
@@ -62,7 +62,7 @@ IoT-Based-Smart-Trolley-System
 
 ---
 
-## 🚀 Applications
+##  Applications
 
 - Supermarkets
 - Shopping Malls
@@ -71,7 +71,7 @@ IoT-Based-Smart-Trolley-System
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Mobile App Integration
 - QR Code Payment
@@ -80,12 +80,12 @@ IoT-Based-Smart-Trolley-System
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Likhitha C T**
 
-Electronics & Communication Engineering (VLSI)
+Electronics & Communication Engineering 
 
 Bengaluru, India
 
-⭐ Thank you for visiting this repository!
+ Thank you for visiting this repository!
