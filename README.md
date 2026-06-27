@@ -88,4 +88,14 @@ Electronics & Communication Engineering
 
 Bengaluru, India
 
+## 👥 Team Project
+
+This project was developed as part of a diploma team project.
+
+### My Contributions
+- Contributed to the development of the IoT-based smart trolley system.
+- Assisted in NodeMCU ESP8266 programming and RFID module integration.
+- Participated in hardware assembly, testing, and system validation.
+- Contributed to project documentation and final report preparation.
+
  Thank you for visiting this repository!
